@@ -1,0 +1,45 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+table {
+  border: 1px solid #ccc;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+}
+
+td {
+  height: 9.9rem;
+  width: 9rem;
+}
+
+.grey {
+  background-color: #f2f2f2;
+  border-radius: 8px;
+  border: 1px solid #666;
+  color: #333;
+}
+
+.red {
+  background-color: #f2bcbc;
+  border-radius: 8px;
+  color: #991919;
+  border: 1px solid #b92828;
+}
+
+.green {
+  background-color: #d1e0bf;
+  border-radius: 8px;
+  color: #51603f;
+  border: 1px solid #6b7e54;
+}
+
+.blue {
+  background-color: #d2d6f0;
+  border-radius: 8px;
+  color: #38448e;
+  border: 1px solid #1d38da;
+}
